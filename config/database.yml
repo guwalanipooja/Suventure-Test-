@@ -56,7 +56,7 @@ test:
 production:
   <<: *default
   adapter: postgresql
-  encoding: utf8
+  encoding: unicode
   database: test_app_production
   username: test_app
   password: 
