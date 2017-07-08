@@ -59,4 +59,5 @@ production:
   encoding: unicode
   database: test_app_production
   username: test_app
-  password: 
+  password:
+  host: localhost
